@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adityajadhav5905 .
-- 🌱 I’m currently learning Web Developement .
-- 🎓 I'm Second Year student at Pune Institute of Computer Technology (PICT) , Pune .
+- 👋 Hi, I’m Aditya .
+- 🌱 Currently learning Web Developement .
+- 🎓 Second Year student at Pune Institute of Computer Technology (PICT) , Pune .
 - 📧 Feel free to contact me at adityajadhav5905@gmail.com  .
 
 
